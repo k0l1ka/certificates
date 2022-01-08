@@ -1,1 +1,1 @@
-Some of my diplomas and certificates.
+Some of my certificates.
