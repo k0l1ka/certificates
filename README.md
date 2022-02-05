@@ -1,4 +1,6 @@
-Some of my certificates:
+Some of my certificates. 
+
+Among them:
 
 - Bachelor Diploma (in russian and french) contains my grades for all courses I had during my Bachelor program in Applied Mathematics and Informatics at Moscow Institute of Physics and Technology (MIPT)
 
